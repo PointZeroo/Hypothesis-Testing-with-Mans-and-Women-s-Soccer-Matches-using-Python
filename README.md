@@ -127,8 +127,7 @@ Women’s World Cup: Wider spread, with more high-scoring matches (6+ goals), sh
 ## Setup Instructions
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/PointZeroo/Analyzing-Crimes-in-Los-Angeles.git
-   cd crime-analysis
+   git clone https://github.com/PointZeroo/Hypothesis-Testing-with-Mans-and-Women-s-Soccer-Matches-using-Python.git
 2. Install dependencies:
    pip install pandas numpy scipy pingouin matplotlib seaborn 
 3. Run Jupyter Notebook
