@@ -101,8 +101,8 @@ Women’s World Cup: Wider spread, with more high-scoring matches (6+ goals), sh
 
 ## Hypothesis Test Results
 
-<img width="531" height="393" alt="image" src="https://github.com/user-attachments/assets/abe48807-ebcd-4e3d-b11b-0a66dd320c80" />
-<img width="545" height="374" alt="image" src="https://github.com/user-attachments/assets/a84e8663-ccff-473f-afa8-48c849d7c187" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/35ae1123-c2e5-461d-8b95-69a3df0b5c36" />
+
 
 
 - **Test Used:** Mann-Whitney U test (non-parametric)  
